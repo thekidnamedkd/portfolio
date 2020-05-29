@@ -9,17 +9,28 @@ img {
 
 h1 {
   color: black;
-  line-height: 1.49;
+  line-height: 1.5;
 }
 
-h1:hover, h1.selected {
+h1:hover, a:visited {
   color: white;
   background-color: black;
 }
 
 .right h1 {
-text-align: right;
-margin: 0px 20px 0px 0px;
+  text-align: right;
+  margin: 0px 20px 0px 0px;
+}
+
+h2:hover {
+  background-color: tomato;
+}
+
+h4 {
+  font-size: 50pt;
+  line-height: 1.28;
+  text-align: justify;
+  margin-right: 20px;
 }
 
 a {
@@ -49,4 +60,12 @@ a:hover {
 .column-3 {
   flex: 30%;
   padding: 20px;
+}
+
+.about {
+  float: left;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 0px 20px 20px 20px;
 }
