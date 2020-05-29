@@ -21,3 +21,9 @@ a {
 a:hover {
   text-decoration: none;
 }
+
+.column {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
