@@ -22,8 +22,22 @@ a:hover {
   text-decoration: none;
 }
 
-.column {
+.column-container {  
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.column-1 {
+  flex: 30%;
+  padding: 20px;
+}
+
+.column-2 {
+  flex: 30%;
+  padding: 20px;
+}
+
+.column-3 {
+  flex: 30%;
+  padding: 20px;
 }
