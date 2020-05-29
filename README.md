@@ -26,7 +26,7 @@ _For site support please contact Kevin Davis - thekidnamedkd@gmail.com_
 
 ## Technologies Used
 
-_This page was created with Terminal, VSCode, GitHub, HTML, CSS_
+_This page was created with Terminal, VSCode, GitHub, HTML, Figma, CSS_
 
 ## License
 
