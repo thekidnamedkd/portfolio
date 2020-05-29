@@ -1,0 +1,18 @@
+h1 {
+  color: black;
+  line-height: 1.49;
+}
+
+h1:hover, h1.selected {
+  color: white;
+  background-color: black;
+}
+
+a {
+  color: black;
+  text decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
