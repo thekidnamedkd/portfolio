@@ -12,14 +12,14 @@ h1 {
   line-height: 1.5;
 }
 
-h1:hover, a:visited {
-  color: white;
-  background-color: black;
-}
-
 .right h1 {
   text-align: right;
   margin: 0px 20px 0px 0px;
+}
+
+h1:hover, a:visited {
+  color: white;
+  background-color: black;
 }
 
 h2:hover {
@@ -63,9 +63,16 @@ a:hover {
 }
 
 .about {
+  font-size: 18pt;
+  font-weight: bolder;
+  line-height: 2.5;
   float: left;
   width: 300px;
   border: 15px solid black;
   padding: 50px;
   margin: 0px 20px 20px 20px;
+}
+
+.about:hover {
+  background-color: tomato;
 }
