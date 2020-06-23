@@ -1,6 +1,6 @@
-# _MR. MR. ROBOGER'S NEIGHBORHOOD_
+# _PORTFOLIO_
 
-#### _WEEK 3 INDEPENDENT PROJECT_
+#### _WEEK 1 INDEPENDENT PROJECT_
 
 #### By _**Kevin Davis**_
 
@@ -14,7 +14,7 @@ _A site to practice the week's skills in coding, GitHub, and start to build a us
 * Execute index.html to a browser (Chrome, Safari, etc)
 * Browse webpage
 
-_Additionally you can browse via the internet at: https://thekidnamedkd.github.io/week-1-project/_
+_Additionally you can browse via the internet at: https://thekidnamedkd.github.io/portfolio/
 
 ## Known Bugs
 
