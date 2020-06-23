@@ -1,6 +1,6 @@
-# _WEEK 1 INDEPENDENT PROJECT_
+# _MR. MR. ROBOGER'S NEIGHBORHOOD_
 
-#### _A portfolio site_
+#### _WEEK 3 INDEPENDENT PROJECT_
 
 #### By _**Kevin Davis**_
 
